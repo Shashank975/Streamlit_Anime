@@ -1,0 +1,7 @@
+import streamlit as st -> Version 1.25.0
+import numpy as np -> Version 1.25.1 
+import pandas as pd -> Latest version: 2.0.3 
+import matplotlib.pyplot as plt ->version 3.7.2
+import seaborn as sns-> version v0. 12
+Python 3.8 - Python 3.11.
+
